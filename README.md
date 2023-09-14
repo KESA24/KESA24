@@ -1,7 +1,7 @@
 ### Hi there, I'm Kesa 👋
 
 
-## I'm an Agric.Engineer, Software Developer and  Aspiring Data Scientist
+## I'm a Kreative Scientist, this is my programming treatise.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on software building and Data Science projects.
